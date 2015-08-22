@@ -1,0 +1,22 @@
+PODS:
+  - TDCore (1.1.4):
+    - TDCore/TableViewDragLoad (= 1.1.4)
+    - TDCore/TDCategory (= 1.1.4)
+    - TDCore/TDEngineLog (= 1.1.4)
+    - TDCore/TDEvent (= 1.1.4)
+    - TDCore/TDPopup (= 1.1.4)
+    - TDCore/TDUtils (= 1.1.4)
+  - TDCore/TableViewDragLoad (1.1.4)
+  - TDCore/TDCategory (1.1.4)
+  - TDCore/TDEngineLog (1.1.4)
+  - TDCore/TDEvent (1.1.4)
+  - TDCore/TDPopup (1.1.4)
+  - TDCore/TDUtils (1.1.4)
+
+DEPENDENCIES:
+  - TDCore
+
+SPEC CHECKSUMS:
+  TDCore: 49e347a53eb625d3a0560bdcffee53f50836513f
+
+COCOAPODS: 0.36.4

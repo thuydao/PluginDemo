@@ -1,0 +1,13 @@
+//
+//  MotelShare-Prefix.pch
+//  MotelShare
+//
+//  Created by Dao Duy Thuy on 8/15/15.
+//  Copyright (c) 2015 Moboco. All rights reserved.
+//
+
+
+#import <TDCore/TDCore.h>
+
+#import "MSBaseViewController.h"
+#import "UIViewController+MBCSystem.h"
